@@ -1,0 +1,1 @@
+package com.diceprime.fullstackbackend.entity;
